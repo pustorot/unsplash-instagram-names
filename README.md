@@ -1,5 +1,5 @@
 # unsplash-instagram-names
-A simple query that can get instagram names of unsplash users.
+A simple query that can get instagram names of unsplash users with a GET request to https://api.unsplash.com.
 
 In this code, we first import the requests library, which provides a simple interface for making HTTP requests. We then define the API endpoint for searching for users on Unsplash and set the value for the first_name variable to filter the results.
 
